@@ -34,19 +34,8 @@
 
 <br/>
 
-<!-- <p align="center">
-  <a href="https://github.com/Anandkr21/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anand Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Anandkr21&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p> -->
-
 ## 📊 My Github Stats :
 
-<!--   <br/>
- <a href="https://github.com/Anandkr21/github-readme-stats"><img alt="Anand Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Anandkr21&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Anandkr21/github-readme-stats"><img alt="Anand Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anandkr21&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> 
-  
- <br/> -->
 <br/>
 <br/>
 
@@ -64,8 +53,5 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/rajeev-ranjan-mishra"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
