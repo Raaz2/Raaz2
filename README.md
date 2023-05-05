@@ -25,7 +25,7 @@
 
 ## 🚀 Languages :
 
-<img src="https://skillicons.dev/icons?i=mongodb,express,nodejs,javascript,html,css"/>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,javascript,html,css"/>
 
 ## 🚀 Tools :
 <img src="https://skillicons.dev/icons?i=postman,git,github,netlify,vscode,codepen,replit"/>
