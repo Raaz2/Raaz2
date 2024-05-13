@@ -1,9 +1,3 @@
-<!-- ## ❤ Views and Followers
-<a href="https://github.com/raaz2/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=raaz2">
-</a>
-<a href="https://github.com/raaz2?tab=followers"><img src="https://img.shields.io/github/followers/raaz2?label=Followers&style=social" alt="GitHub Badge"></a>
- -->
 <h1 align="center">Hi 👋 I'm Rajeev Ranjan Mishra.</h1>
 <h3 align="center">I'm a passionate Java Developer from India.</h3>
 <img align="right" width="420" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611745b4649e65ad509de95aee8e787d2cb83bd5bec&rid=giphy.gif&ct=g" alt="">
