@@ -10,27 +10,23 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 💼 Experienced Java Backend Developer with expertise in Spring, Hibernate, MySQL, and RESTful API development.
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 📧 Reach me at **rajeevranjanmishra4339@gmail.com**
 
+- 👩‍💻 Check out my **[Portfolio](https://raaz2.github.io/)** to explore my projects and achievements.
 
+- 📑 View my **[Resume](https://drive.google.com/file/d/1N3tNE0Ai02YyNkWwTxUoJ8baLBJ0617t/view?usp=sharing)** to learn more about my professional background.
 
-- 📫 How to reach me **rajeevranjanmishra4339@gmail.com**
-- 👩‍💻 All of my Projects are available on my **[Portfolio](https://raaz2.github.io/)**
+- ⚡ Fun fact: I enjoy playing cricket and chess in my free time.
 
-- 📑  Know about my experiences **[Resume](https://drive.google.com/file/d/1N3tNE0Ai02YyNkWwTxUoJ8baLBJ0617t/view?usp=sharing)**
+## 🚀 Skills :
 
-- ⚡ Fun fact **I love cricket and chess.**
-
-## 🚀 Languages :
-
+### Languages:
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,javascript,html,css"/>
 
-## 🚀 Tools :
+### Frameworks & Tools:
 <img src="https://skillicons.dev/icons?i=postman,git,github,netlify,vscode,codepen,replit"/>
-
-
 
 <br/>
 
@@ -55,3 +51,4 @@
 <a href = "https://www.linkedin.com/in/rajeev-ranjan-mishra"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
+
