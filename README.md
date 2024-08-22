@@ -10,7 +10,7 @@
 
 - 👩‍💻 Check out my **[Portfolio](https://raaz2.github.io/)** to explore my projects and achievements.
 
-- 📑 View my **[Resume](https://drive.google.com/file/d/1N3tNE0Ai02YyNkWwTxUoJ8baLBJ0617t/view?usp=sharing)** to learn more about my professional background.
+- 📑 View my **[Resume](https://drive.google.com/file/d/1NrrW31MyWGM9ziF7yPSOu2zII0V4SgSr/view?usp=sharing)** to learn more about my professional background.
 
 - ⚡ Fun fact: I enjoy playing cricket and chess in my free time.
 
